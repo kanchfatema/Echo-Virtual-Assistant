@@ -1,8 +1,6 @@
 # Voice-Based Virtual Assistant (Python Project)
 
-A lightweight, voice-controlled Python virtual assistant that can listen, talk, remember notes, tell jokes, open websites, do basic math, and even respond to random queries using an AI fallback model (Ollama with Mistral).
-
--
+A lightweight, voice-controlled Python virtual assistant that can listen, talk, remember notes, tell jokes, open websites, do basic math, and even respond to random queries using an AI fallback model (Ollama with Mistral)
 
 Features ❯️
 
@@ -16,7 +14,6 @@ Features ❯️
 
 - **AI Fallback** : Uses Ollama’s Mistral model for intelligent responses to general queries
 
--
 
 Tech Stack
 - **Language:** Python 3.x
@@ -30,7 +27,7 @@ Tech Stack
 
 - Optional: `ollama` CLI for AI fallback
 
----
+
 Installation 
 1. Clone the repository
 ```bash git clone https://github.com/YOUR_USERNAME/virtual-assistant.git cd virtual-assistant
